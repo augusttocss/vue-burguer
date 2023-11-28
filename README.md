@@ -1,19 +1,22 @@
 # projeto_burger
 
-## Project setup
+## Para iniciar o projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para rodar front-end
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### Para rodar back-end
+```
+npm run backend
+```
+### Compilar para produção
 ```
 npm run build
 ```
 
-### Customize configuration
+### Configurações customizadas
 See [Configuration Reference](https://cli.vuejs.org/config/).
